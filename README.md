@@ -51,8 +51,11 @@ Recall - Proportion of true positive predictions among all actual positive insta
 
 ## Key Insights
 The model built was able to corrected predict the True Negative 17398, 
+
 True Negative was 1634.
-False Negative 87. 
+
+False Negative 87.
+
 False Positive was 111.
 
 The RandomForest performance which was selected as our model, looked into Key Insights about the performance of the model and its evaluation metrics before selected. 
